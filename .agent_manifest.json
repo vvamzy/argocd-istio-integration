@@ -1,0 +1,9 @@
+{
+  "project_name": "argocd-istio-integration",
+  "status": "in_progress",
+  "completed_percentage": 10,
+  "description": "Automate Kubernetes deployments & service mesh policies with ArgoCD and Istio for seamless DevOps workflows.",
+  "history": [
+    "Day 1: Repository initialized. PM Agent drafted the product architecture blueprint."
+  ]
+}
